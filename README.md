@@ -123,9 +123,10 @@ This text file contains a list of countries and their corresponding regions wher
 - The file contains only countries where no corresponding entry was found in the merged dataset.
 - The regions are included to provide additional context about the geographical distribution of the unmatched countries.
 
-## Processing Workflow
+## Processing Workflow - Usage
 
-The jupyter notebook DataCollection_and_Analysis contains the code for collecting data using the APIs and also the processing and analysis.
+The jupyter notebook DataCollection_and_Analysis contains the code for collecting data using the APIs and also the processing and analysis.  
+Use this notebook and run the cells sequentially to reproduce the results. 
 
 ### Step 1: Retrieve Wikipedia Page Data
 The script retrieves information for articles about politicians and stores it in an intermediary CSV.
