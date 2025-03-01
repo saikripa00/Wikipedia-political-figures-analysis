@@ -1,6 +1,6 @@
 
 # Wikipedia Political Figures Analysis
-#### DATA-512 | Homework 2 | Considering Bias in Data
+####  Considering Bias in Data
 
 ## Project Goal
 This project analyzes potential biases in Wikipedia articles about political figures across countries and regions. Using Wikipedia article data and population statistics, the study explores disparities in both coverage and quality of articles. ORES machine learning predictions help assess the quality of articles.
